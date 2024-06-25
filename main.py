@@ -4,13 +4,13 @@
 #Link to author: https://linkstack.lgbt/@JenniferR25
 
 #Greet the user
-print("Welcome to the tip calculate.")
+print("Welcome to the tip calculator.")
 #Gather the pre-tip total & assign variable name
 bill = float(input("What is the bill total?\n"))
 #Gather desired tip % and assign variable name
 tip = int(input("What percentage would you like to give?\n"))
 #Gather number of people paying the bill
-ppl = int(input("How many ways would you like to spilt the bill?\n"))
+ppl = int(input("How many ways would you like to split the bill?\n"))
 #Calculate the bill total (including the tip)
 total = round((tip / 100) * bill + bill, 2)
 #Determin how much each person will pay
