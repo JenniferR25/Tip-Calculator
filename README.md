@@ -15,3 +15,4 @@ It then calculates the tip ammount, total w/ tip included & the total per person
 ![image](https://github.com/JenniferR25/Tip-Calculator/assets/113067501/4d673b34-9f9b-466c-aaeb-28ce3888aa64)
 
 
+This project was created by Jennifer R. for the 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu and is licensed under the terms of the GNU General Public License v3.0 license.
